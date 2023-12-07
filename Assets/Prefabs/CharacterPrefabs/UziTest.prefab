@@ -119,7 +119,7 @@ GameObject:
   - component: {fileID: 4595245001526624}
   m_Layer: 0
   m_Name: UziTest
-  m_TagString: Untagged
+  m_TagString: Player2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -134,7 +134,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 6.29, y: -0.91, z: 0}
-  m_LocalScale: {x: 1.5, y: 1.5, z: 1.5}
+  m_LocalScale: {x: -1.5, y: 1.5, z: 1.5}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 4120401333757072038}
@@ -182,7 +182,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 1786243829, guid: 72427ad66e0b84442b278a309ac32f47, type: 3}
+  m_Sprite: {fileID: 1694287883, guid: 67af26b2b11bc614c8f121d568eb087d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -308,7 +308,7 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.1, y: -0.71}
+  m_Offset: {x: 0.38, y: 0.01}
   serializedVersion: 2
   m_Radius: 0.16042244
 --- !u!114 &67546134910410500
@@ -336,7 +336,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 8
-  jumpForce: 450
+  jumpForce: 250
   isGrounded: 0
   shouldJump: 0
 --- !u!114 &4595245001526624
