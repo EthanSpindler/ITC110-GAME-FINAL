@@ -63,7 +63,7 @@ public class Spawner : MonoBehaviour
         {
             lil.tag = "Player2";
             lil.GetComponent<UziHealth>().healthBar = GameObject.Find("Player2Health").GetComponent<HealthBar>();
-            lil.transform.localScale = new Vector3((float)-1.5,(float)1.5,(float) 1.5);
+            lil.transform.localScale = new Vector3((float)-0.1406604,(float)0.1406604,(float)0.1406604);
             Instantiate(lil, new Vector3(7, -1, 0), Quaternion.identity); 
         }
         else if(p2 == "Travis")
@@ -77,7 +77,7 @@ public class Spawner : MonoBehaviour
         {
             playboi.tag = "Player2";
             playboi.GetComponent<CartiHealth>().healthBar = GameObject.Find("Player2Health").GetComponent<HealthBar>();
-            playboi.transform.localScale = new Vector3((float)-1.5,(float)1.5,(float) 1.5);
+            playboi.transform.localScale = new Vector3((float)-0.27315,(float)0.27315,(float) 0.27315);
             Instantiate(playboi, new Vector3(7, -1, 0), Quaternion.identity); 
         }
     }
