@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 778e0d0c5e3214b97ac50d9813feb21a
+guid: 4824d2997ed44403c94d28bd0d4ca58e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -123,91 +123,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TRAVIS SCOTT BATMAN FINAL RYU PUNCH  (1)_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 2240
-        width: 320
-        height: 320
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e0175166050954e78be89fa9456d8f7a
-      internalID: 299353162
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TRAVIS SCOTT BATMAN FINAL RYU PUNCH  (1)_1
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1920
-        width: 320
-        height: 320
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9fd1d609d58fe4cc09e4a2ec3240583c
-      internalID: 271004107
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TRAVIS SCOTT BATMAN FINAL RYU PUNCH  (1)_2
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1600
-        width: 320
-        height: 320
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c25789df4d5e445549a140ad0c3cb27c
-      internalID: -1544792980
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TRAVIS SCOTT BATMAN FINAL RYU PUNCH  (1)_3
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1280
-        width: 320
-        height: 320
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6fe3d4a2502374796a6b759eb15f4bb4
-      internalID: 625613534
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TRAVIS SCOTT BATMAN FINAL RYU PUNCH  (1)_4
+      name: XXXTENTACION WHITE HAIR WALK FINAL_0
       rect:
         serializedVersion: 2
         x: 0
@@ -221,14 +137,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef9087b042b89477492460e6a115e93f
-      internalID: -558195988
+      spriteID: d8582470dc28f421085051a031a1d57d
+      internalID: 793189527
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TRAVIS SCOTT BATMAN FINAL RYU PUNCH  (1)_5
+      name: XXXTENTACION WHITE HAIR WALK FINAL_1
       rect:
         serializedVersion: 2
         x: 0
@@ -242,14 +158,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 84fdf1106bd5748cd8e6ba31b23f738d
-      internalID: 1717176100
+      spriteID: 85667bb00c5544189aa76a857eb2140f
+      internalID: -1494347686
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TRAVIS SCOTT BATMAN FINAL RYU PUNCH  (1)_6
+      name: XXXTENTACION WHITE HAIR WALK FINAL_2
       rect:
         serializedVersion: 2
         x: 0
@@ -263,14 +179,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee73c13deb80e4b508781fbc044a2458
-      internalID: 332581672
+      spriteID: db63eae4c0e48464da2ae1285c928830
+      internalID: 1627063753
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TRAVIS SCOTT BATMAN FINAL RYU PUNCH  (1)_7
+      name: XXXTENTACION WHITE HAIR WALK FINAL_3
       rect:
         serializedVersion: 2
         x: 0
@@ -284,8 +200,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fabbcaa2df2314e5d9d02c026546dc82
-      internalID: 1431103497
+      spriteID: 6ada764ff2fa14787a471bf2cd9b68e0
+      internalID: -707929922
       vertices: []
       indices: 
       edges: []
@@ -301,14 +217,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      TRAVIS SCOTT BATMAN FINAL RYU PUNCH  (1)_0: 299353162
-      TRAVIS SCOTT BATMAN FINAL RYU PUNCH  (1)_1: 271004107
-      TRAVIS SCOTT BATMAN FINAL RYU PUNCH  (1)_2: -1544792980
-      TRAVIS SCOTT BATMAN FINAL RYU PUNCH  (1)_3: 625613534
-      TRAVIS SCOTT BATMAN FINAL RYU PUNCH  (1)_4: -558195988
-      TRAVIS SCOTT BATMAN FINAL RYU PUNCH  (1)_5: 1717176100
-      TRAVIS SCOTT BATMAN FINAL RYU PUNCH  (1)_6: 332581672
-      TRAVIS SCOTT BATMAN FINAL RYU PUNCH  (1)_7: 1431103497
+      XXXTENTACION WHITE HAIR WALK FINAL_0: 793189527
+      XXXTENTACION WHITE HAIR WALK FINAL_1: -1494347686
+      XXXTENTACION WHITE HAIR WALK FINAL_2: 1627063753
+      XXXTENTACION WHITE HAIR WALK FINAL_3: -707929922
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

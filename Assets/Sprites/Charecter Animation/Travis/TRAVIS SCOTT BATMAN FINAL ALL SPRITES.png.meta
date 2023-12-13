@@ -1,0 +1,514 @@
+fileFormatVersion: 2
+guid: ee68d8b0886d54b019f036a4bf101b5f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TRAVIS SCOTT BATMAN FINAL ALL SPRITES_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5120
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1447f814f5fb4b2ab9b9ae9c83e093f
+      internalID: 1913706881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRAVIS SCOTT BATMAN FINAL ALL SPRITES_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4800
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bdb96f793cd4fce9b764b381a75ab1
+      internalID: 560757535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRAVIS SCOTT BATMAN FINAL ALL SPRITES_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4480
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c52ec9557b2b4117a4817b8e501b924
+      internalID: 206079590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRAVIS SCOTT BATMAN FINAL ALL SPRITES_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4160
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b764b32507194448dbc72467f1aedbd0
+      internalID: -2047598919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRAVIS SCOTT BATMAN FINAL ALL SPRITES_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd34881c0a5794ad9aa1f7b8b7c4e323
+      internalID: -830527737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRAVIS SCOTT BATMAN FINAL ALL SPRITES_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3520
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dda0cd7562e4c2c8e9ececb15045f9
+      internalID: -237180946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRAVIS SCOTT BATMAN FINAL ALL SPRITES_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7558e4d3a7ff54b94a786945aa4b76f2
+      internalID: 1674304015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRAVIS SCOTT BATMAN FINAL ALL SPRITES_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60824bc4398a4e6993a64fc86de489d
+      internalID: -1700321242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRAVIS SCOTT BATMAN FINAL ALL SPRITES_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c4f73e507d644fb83b1aacbe0887b7
+      internalID: 501121942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRAVIS SCOTT BATMAN FINAL ALL SPRITES_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2240
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb1b2fae02da483b8c3b853c2bc9905
+      internalID: -16314902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRAVIS SCOTT BATMAN FINAL ALL SPRITES_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b3f483b5f6948539762dbf5fd93972
+      internalID: 797140299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRAVIS SCOTT BATMAN FINAL ALL SPRITES_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c599c178a4dfd45d98889a846bee8528
+      internalID: 1916152013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRAVIS SCOTT BATMAN FINAL ALL SPRITES_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b103877148de41cfb45691b9852dc46
+      internalID: -48068790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRAVIS SCOTT BATMAN FINAL ALL SPRITES_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da62709d6d2946b580ba561844d469d
+      internalID: 566422817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRAVIS SCOTT BATMAN FINAL ALL SPRITES_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a851087cce4f94946b171c97900681e9
+      internalID: 45866281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRAVIS SCOTT BATMAN FINAL ALL SPRITES_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83503c03a5d36487aae08b42ede01ba9
+      internalID: -95918674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TRAVIS SCOTT BATMAN FINAL ALL SPRITES_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe0a728d5f6f4711b6275a62561276d
+      internalID: -282552200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TRAVIS SCOTT BATMAN FINAL ALL SPRITES_0: 1913706881
+      TRAVIS SCOTT BATMAN FINAL ALL SPRITES_1: 560757535
+      TRAVIS SCOTT BATMAN FINAL ALL SPRITES_10: 797140299
+      TRAVIS SCOTT BATMAN FINAL ALL SPRITES_11: 1916152013
+      TRAVIS SCOTT BATMAN FINAL ALL SPRITES_12: -48068790
+      TRAVIS SCOTT BATMAN FINAL ALL SPRITES_13: 566422817
+      TRAVIS SCOTT BATMAN FINAL ALL SPRITES_14: 45866281
+      TRAVIS SCOTT BATMAN FINAL ALL SPRITES_15: -95918674
+      TRAVIS SCOTT BATMAN FINAL ALL SPRITES_16: -282552200
+      TRAVIS SCOTT BATMAN FINAL ALL SPRITES_2: 206079590
+      TRAVIS SCOTT BATMAN FINAL ALL SPRITES_3: -2047598919
+      TRAVIS SCOTT BATMAN FINAL ALL SPRITES_4: -830527737
+      TRAVIS SCOTT BATMAN FINAL ALL SPRITES_5: -237180946
+      TRAVIS SCOTT BATMAN FINAL ALL SPRITES_6: 1674304015
+      TRAVIS SCOTT BATMAN FINAL ALL SPRITES_7: -1700321242
+      TRAVIS SCOTT BATMAN FINAL ALL SPRITES_8: 501121942
+      TRAVIS SCOTT BATMAN FINAL ALL SPRITES_9: -16314902
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

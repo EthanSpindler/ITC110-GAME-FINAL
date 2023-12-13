@@ -137,8 +137,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 077d19654bfc7465e9ac4c7189f94cad
-      internalID: -393701062
+      spriteID: fb20d5f3efea848929f82468a156a36e
+      internalID: -714171995
       vertices: []
       indices: 
       edges: []
@@ -158,8 +158,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bb1074ef2bc2e411eb0ae563d8241a4c
-      internalID: -1169717018
+      spriteID: e3cbcfad53be34bb1b33b72891b94570
+      internalID: -1291740905
       vertices: []
       indices: 
       edges: []
@@ -179,8 +179,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4197191b7b31d440c901d69d03deb1f2
-      internalID: -2093839297
+      spriteID: 855d63f1737c74122ac95b81b28862cf
+      internalID: 720082694
       vertices: []
       indices: 
       edges: []
@@ -200,8 +200,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9b9ff867156ec46d998032808d907999
-      internalID: 1068850369
+      spriteID: b38e320428f3c405396980a739357b17
+      internalID: 2024759505
       vertices: []
       indices: 
       edges: []
@@ -221,8 +221,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a82a07e9d31cc48e893497f7aae8940d
-      internalID: 845042949
+      spriteID: 282bda4da4a3d4b1f87ed1ebc5bbed3f
+      internalID: 1156995919
       vertices: []
       indices: 
       edges: []
@@ -242,8 +242,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d2be63d52339b403c8d7bd438a256fad
-      internalID: -863716289
+      spriteID: c751e601e7fda452fb899d0e273adc2e
+      internalID: -1729392061
       vertices: []
       indices: 
       edges: []
@@ -263,8 +263,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ed51529cc449147f7b4711180a440981
-      internalID: -758678895
+      spriteID: 41f86d6c8d9aa441588dc5681c9c9995
+      internalID: -724657196
       vertices: []
       indices: 
       edges: []
@@ -280,13 +280,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      XXXTENTACION WHITE HAIR RYU FINAL_0: -393701062
-      XXXTENTACION WHITE HAIR RYU FINAL_1: -1169717018
-      XXXTENTACION WHITE HAIR RYU FINAL_2: -2093839297
-      XXXTENTACION WHITE HAIR RYU FINAL_3: 1068850369
-      XXXTENTACION WHITE HAIR RYU FINAL_4: 845042949
-      XXXTENTACION WHITE HAIR RYU FINAL_5: -863716289
-      XXXTENTACION WHITE HAIR RYU FINAL_6: -758678895
+      XXXTENTACION WHITE HAIR RYU FINAL_0: -714171995
+      XXXTENTACION WHITE HAIR RYU FINAL_1: -1291740905
+      XXXTENTACION WHITE HAIR RYU FINAL_2: 720082694
+      XXXTENTACION WHITE HAIR RYU FINAL_3: 2024759505
+      XXXTENTACION WHITE HAIR RYU FINAL_4: 1156995919
+      XXXTENTACION WHITE HAIR RYU FINAL_5: -1729392061
+      XXXTENTACION WHITE HAIR RYU FINAL_6: -724657196
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -24,6 +24,7 @@ public class XAttackArea : MonoBehaviour
         {
             TravisHealth health = collider.GetComponent<TravisHealth>();
             health.Damage(dmgType());
+            Debug.Log("Damage done: " + dmgType());
         }
         else if(collider.GetComponent<XHealth>() != null)
         {

@@ -22,9 +22,9 @@ AnimationClip:
     curve:
     - time: 0
       value: {fileID: -992468417, guid: 1027b310d4aec4cc3bdbaffc160f6003, type: 3}
-    - time: 0.55
+    - time: 0.51666665
       value: {fileID: 406414438, guid: 1027b310d4aec4cc3bdbaffc160f6003, type: 3}
-    - time: 1.1166667
+    - time: 1.0333333
       value: {fileID: -707519254, guid: 1027b310d4aec4cc3bdbaffc160f6003, type: 3}
     attribute: m_Sprite
     path: 
@@ -56,7 +56,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 1.1333333
+    m_StopTime: 1.05
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -83,7 +83,7 @@ AnimationClip:
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
-  - time: 1.0333333
+  - time: 0.93333334
     functionName: SideColliderToggleOff
     data: 
     objectReferenceParameter: {fileID: 0}

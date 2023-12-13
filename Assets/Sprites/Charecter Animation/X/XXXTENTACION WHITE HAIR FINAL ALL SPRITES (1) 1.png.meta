@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: f496a77d5384048f5a54c8f478ca1a3e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5440
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688f1fabb93b0473b9b8fbc12bca148b
+      internalID: -2142412176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5120
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3949338aea8e4c8da5540a675b7c5fa
+      internalID: 1492040938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4800
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae805fca748864addaf1ea700d5a93a1
+      internalID: 984026636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4480
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1b69d17db84467c830c1615d0bed35
+      internalID: -1658457004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4160
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dca8993887c48ff8465fd7f57d6d9a
+      internalID: 219103829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e49230e086043029e4a98337533d9e
+      internalID: -1873555992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3520
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32f993d7858b433a8cbec94b5098e4f
+      internalID: 1200589856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aacdd621c40e4252b5408f766c966bb
+      internalID: -592437599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf975271f8a740198c20ee4aa36ced6
+      internalID: -524568506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43ad6ff917f84cf7a0b227cc8914b65
+      internalID: 1762386516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2240
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f8ba0d324ca4856a18db27a6941406
+      internalID: 544502631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3d988d4aea54befb1670b1f4838aea
+      internalID: -1117403474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f4b8ee48ba941ecbcc20cc9bf0ff30
+      internalID: -1950605944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a6242cf0f2444189d4a8e9a0a6f8db
+      internalID: 1327663211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaf333240e3544e4bc540bcd7516de8
+      internalID: 989287383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9d20ece40e34f7795e861ad1b10d47
+      internalID: -1895901644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36532138187b440ca85a4772c4db062
+      internalID: -1819130907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccd3f40023b4423c8e2c78c465d9c87
+      internalID: 1892811911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_0: -2142412176
+      XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_1: 1492040938
+      XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_10: 544502631
+      XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_11: -1117403474
+      XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_12: -1950605944
+      XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_13: 1327663211
+      XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_14: 989287383
+      XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_15: -1895901644
+      XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_16: -1819130907
+      XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_17: 1892811911
+      XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_2: 984026636
+      XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_3: -1658457004
+      XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_4: 219103829
+      XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_5: -1873555992
+      XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_6: 1200589856
+      XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_7: -592437599
+      XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_8: -524568506
+      XXXTENTACION WHITE HAIR FINAL ALL SPRITES (1) 1_9: 1762386516
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
