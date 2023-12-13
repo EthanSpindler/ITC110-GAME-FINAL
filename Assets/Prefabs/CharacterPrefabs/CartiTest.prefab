@@ -212,7 +212,7 @@ GameObject:
   - component: {fileID: 6122445793551714233}
   m_Layer: 0
   m_Name: CartiTest
-  m_TagString: Untagged
+  m_TagString: Player1
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -226,8 +226,8 @@ Transform:
   m_GameObject: {fileID: 6049906283086985641}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 6.29, y: -0.91, z: 0}
-  m_LocalScale: {x: 1.5, y: 1.5, z: 1.5}
+  m_LocalPosition: {x: 0.0089, y: -7.1911, z: 0}
+  m_LocalScale: {x: 0.27315, y: 0.27315, z: 0.27315}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 3360221967840523185}
@@ -275,7 +275,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 1786243829, guid: 72427ad66e0b84442b278a309ac32f47, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 05d4304e5bc7ea34488864cb92e21355, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -339,8 +339,8 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.23, y: -0.10112556}
-  m_Size: {x: 1.0422552, y: 1.2905753}
+  m_Offset: {x: 0.5891732, y: -0.13730933}
+  m_Size: {x: 3.0384097, y: 5.788774}
   m_Direction: 0
 --- !u!50 &819528899923624033
 Rigidbody2D:
@@ -401,9 +401,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.1, y: -0.71}
+  m_Offset: {x: 0.9013785, y: -2.35102}
   serializedVersion: 2
-  m_Radius: 0.16042244
+  m_Radius: 0.6185472
 --- !u!114 &6649664366184437538
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -445,6 +445,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 8
-  jumpForce: 450
+  jumpForce: 250
   isGrounded: 0
   shouldJump: 0

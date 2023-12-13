@@ -48,6 +48,7 @@ public class CartiAttack : MonoBehaviour
         if(Input.GetKeyDown(KeyCode.Q))
         {
             Attack();
+            Debug.Log("Attacking");
         }
         if(Input.GetKeyDown(KeyCode.E))
         {
