@@ -27,7 +27,7 @@ Transform:
   m_GameObject: {fileID: 471959667844681331}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.683, y: 0.61, z: 0}
+  m_LocalPosition: {x: 0.06, y: 5.07, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -77,16 +77,17 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: 0.5156878, y: 0.30632687}
-      - {x: 0.82906324, y: 0.24770856}
-      - {x: 1.0557921, y: -0.09768497}
-      - {x: 1.0147791, y: -0.4290855}
+    - - {x: 0.3869225, y: 2.057595}
+      - {x: 2.06525, y: 1.6126672}
+      - {x: 3.4509072, y: 0.36588666}
+      - {x: 3.5644097, y: -2.386384}
       - {x: 0.62522846, y: -0.30235407}
-      - {x: 0.38485926, y: -0.28545368}
-      - {x: -0.04665968, y: -0.4508915}
-      - {x: -0.055817697, y: -0.054216277}
-      - {x: 0.098030016, y: 0.14211693}
-      - {x: 0.31227234, y: 0.2351681}
+      - {x: -2.139035, y: -0.90354854}
+      - {x: -2.9568574, y: -2.5112066}
+      - {x: -3.7294755, y: -2.1506515}
+      - {x: -4.1764507, y: -0.5692954}
+      - {x: -3.4302566, y: 0.6829498}
+      - {x: -1.799555, y: 1.7031424}
   m_UseDelaunayMesh: 0
 --- !u!114 &3900242872296989556
 MonoBehaviour:
@@ -246,8 +247,8 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.2528485, y: -1.5164351}
-  m_Size: {x: 4.9675627, y: 6.502862}
+  m_Offset: {x: 1.1822517, y: 0.07562895}
+  m_Size: {x: 7.837762, y: 9.686989}
   m_Direction: 0
 --- !u!50 &8298371163117574147
 Rigidbody2D:
@@ -308,9 +309,9 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 1.4265767, y: -3.755308}
+  m_Offset: {x: 1.4265766, y: -4.29347}
   serializedVersion: 2
-  m_Radius: 0.97722554
+  m_Radius: 1.5153884
 --- !u!114 &67546134910410500
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -382,7 +383,7 @@ Transform:
   m_GameObject: {fileID: 8558927087344721304}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 2.47, y: 0.46, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -432,9 +433,9 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: 0.9532695, y: -0.43193695}
-      - {x: 0.07272889, y: -0.21211505}
-      - {x: 0.8013286, y: 0.37997538}
+    - - {x: 4.172511, y: -2.6725295}
+      - {x: -0.26207322, y: 0.3287176}
+      - {x: 3.891805, y: 4.140052}
   m_UseDelaunayMesh: 0
 --- !u!114 &2954809434888882146
 MonoBehaviour:

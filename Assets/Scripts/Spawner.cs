@@ -63,13 +63,8 @@ public class Spawner : MonoBehaviour
         {
             lil.tag = "Player2";
             lil.GetComponent<UziHealth>().healthBar = GameObject.Find("Player2Health").GetComponent<HealthBar>();
-<<<<<<< HEAD
-            lil.transform.localScale = new Vector3((float)-1.5,(float)1.5,(float) 1.5);
+            lil.transform.localScale = new Vector3((float)-0.1406604,(float)0.1406604,(float) 0.1406604);
             Instantiate(lil, new Vector3(7, 1, 0), Quaternion.identity); 
-=======
-            lil.transform.localScale = new Vector3((float)-0.1406604,(float)0.1406604,(float)0.1406604);
-            Instantiate(lil, new Vector3(7, -1, 0), Quaternion.identity); 
->>>>>>> 50bed2ceb5b5cff40a40e3e0f488f5e296ff862b
         }
         else if(p2 == "Travis")
         {
@@ -82,13 +77,8 @@ public class Spawner : MonoBehaviour
         {
             playboi.tag = "Player2";
             playboi.GetComponent<CartiHealth>().healthBar = GameObject.Find("Player2Health").GetComponent<HealthBar>();
-<<<<<<< HEAD
-            playboi.transform.localScale = new Vector3((float)-1.5,(float)1.5,(float) 1.5);
-            Instantiate(playboi, new Vector3(7, 1, 0), Quaternion.identity); 
-=======
             playboi.transform.localScale = new Vector3((float)-0.27315,(float)0.27315,(float) 0.27315);
-            Instantiate(playboi, new Vector3(7, -1, 0), Quaternion.identity); 
->>>>>>> 50bed2ceb5b5cff40a40e3e0f488f5e296ff862b
+            Instantiate(playboi, new Vector3(7, 1, 0), Quaternion.identity); 
         }
     }
 }
