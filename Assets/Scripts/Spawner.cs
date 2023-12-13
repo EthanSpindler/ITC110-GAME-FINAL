@@ -77,7 +77,7 @@ public class Spawner : MonoBehaviour
         {
             playboi.tag = "Player2";
             playboi.GetComponent<CartiHealth>().healthBar = GameObject.Find("Player2Health").GetComponent<HealthBar>();
-            playboi.transform.localScale = new Vector3((float)-0.27315,(float)0.27315,(float) 0.27315);
+            playboi.transform.localScale = new Vector3((float)-0.07642737,(float)0.07642737,(float) 0.07642737);
             Instantiate(playboi, new Vector3(7, 1, 0), Quaternion.identity); 
         }
     }
